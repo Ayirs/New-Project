@@ -24,6 +24,7 @@ b=c;
      }
 
 	printf("goooooooof")
+		printf("mahima")
     return 0;
 }
 
